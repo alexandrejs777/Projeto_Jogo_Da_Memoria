@@ -12,20 +12,27 @@
 </head>
 <body>
      
-    <div id='bootstrap-card' class="card flip" data-icon='bootstrap'>
-        <div class="card-front">
-            <img src="./Assets/Images/bootstrap.png" alt="" class="icon">
-        </div>
-        <div class="card-back">
-            &lt/&gt
-        </div>
-    </div>
+    <div id="gameBoard">
+
+        <div id='bootstrap-card' class="card flip" data-icon='bootstrap'>
+            <div class="card-front">
+                <img src="./Assets/Images/bootstrap.png" alt="" class="icon">
+            </div><!-- card-front -->
+
+            <div class="card-back">
+                &lt/&gt
+            </div><!-- card-back -->
+        </div><!-- card -->
+
+    </div><!-- gameBoard -->
 
     <div id="gameOver">
+
         <div class="final-msg">
             <p>Parabéns! Você completou o jogo!</p>
         </div><!-- final-msg -->
         <button id="restart" onclick="restart()">Jogue novamente</button>
+
     </div><!-- gameOver -->
 
     <script src="./Script/script.js"></script>
