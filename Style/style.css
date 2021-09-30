@@ -77,5 +77,6 @@ body {
     border: none;
     border-radius: 10px;
     font-size: 20px;
+    cursor: pointer;
     background-color: yellow;
 }
