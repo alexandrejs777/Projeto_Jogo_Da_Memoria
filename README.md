@@ -14,7 +14,7 @@ O objetivo é reforçar o uso do modelo MVC (Model View Controller), onde o cont
 
 # Link e Imagens do Projeto
  
-  <i>Link: /</i>
+  <i>Link: https://alexandrejs777.github.io/Projeto_Jogo_Da_Memoria/</i>
 <br>  
   
   <div style="display: inline_block"><br>
